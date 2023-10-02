@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dev Suryakant</h1>
+<h1 align="center">Hi 👋, I'm Dev Tangadi</h1>
 <h3 align="center">A passionate soon to be a Developer</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/LcbB94yg5l8AAAAC/kratos-god-of-war.gif">
