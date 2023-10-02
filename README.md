@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dev Suryakant</h1>
-<h3 align="center">A passionate Engineer from India</h3>
+<h3 align="center">A passionate soon to be a Developer</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/LcbB94yg5l8AAAAC/kratos-god-of-war.gif">
 
@@ -9,6 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.youtube.com/c/uccwi-j5hx58xvb3cwu-fmoa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uccwi-j5hx58xvb3cwu-fmoa" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
